@@ -1,4 +1,4 @@
-### Hi there 👋
+This is my public github where I mostly put code for Python related events.
 
 <!--
 **mborus/mborus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
